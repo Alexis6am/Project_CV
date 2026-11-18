@@ -1,4 +1,5 @@
 /data/raw/*
 /data/processed/*
 /data/SKU-110K/*
+/notebooks/.ipynb_checkpoints/
 !/data/raw/README.md
